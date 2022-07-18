@@ -1,1 +1,2 @@
 # testAutomation_kns
+Pakeitimas
